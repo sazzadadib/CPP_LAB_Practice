@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1584205420 source:e:\cse225\lab exam practice\stacklinkedlist\main.cpp
+	<iostream>
+
+1684518488 source:e:\cse225\lab exam practice\stacklinkedlist\stacklist.cpp
+	<iostream>
+	"stackList.h"
+
+1684517563 e:\cse225\lab exam practice\stacklinkedlist\stacklist.h
+
