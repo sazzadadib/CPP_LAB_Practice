@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1684523311 source:e:\cse225\lab exam practice\quearray\main.cpp
+	<iostream>
+	"queArray.h"
+	"queArray.cpp"
+
+1684523360 source:e:\cse225\lab exam practice\quearray\quearray.cpp
+	<iostream>
+	"queArray.h"
+
+1684523189 e:\cse225\lab exam practice\quearray\quearray.h
+
+1684523360 e:\cse225\lab exam practice\quearray\quearray.cpp
+	<iostream>
+	"queArray.h"
+
