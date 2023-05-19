@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1684512431 source:e:\cse225\lab exam practice\stackarray\main.cpp
+	<iostream>
+	<string>
+	"stackArray.h"
+	"stackArray.cpp"
+
+1684507750 source:e:\cse225\lab exam practice\stackarray\stackarray.cpp
+	<iostream>
+	"stackArray.h"
+
+1684507584 e:\cse225\lab exam practice\stackarray\stackarray.h
+
+1684507750 e:\cse225\lab exam practice\stackarray\stackarray.cpp
+	<iostream>
+	"stackArray.h"
+
